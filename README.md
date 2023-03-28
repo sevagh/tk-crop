@@ -1,6 +1,6 @@
 # tk-crop
 
-This is a tiny demo Python/Tk application for batch cropping a folder of images with fixed-size rectangles. The code is [based on this](https://github.com/dnouri/photo_splitter).
+This is a tiny demo Python/Tk application for batch cropping a folder of images with fixed-size rectangles. The code is [based on this](https://github.com/ImageProcessing-ElectronicPublications/python-cropper-tk).
 
 Simply define the boxes and then drag and drop to crop! Images can be resized to fit the rectangles.
 
